@@ -8,4 +8,5 @@ https://nbviewer.jupyter.org/github/drbjselby/normal-distributions-tutorial/blob
 * [OpenIntro Probability Tables](stat_prob_tables.pdf)
 
 * [Binomial Distributions](BinomialDistribution.ipynb)
+
 https://nbviewer.jupyter.org/github/drbjselby/normal-distributions-tutorial/blob/master/BinomialDistribution.ipynb#
