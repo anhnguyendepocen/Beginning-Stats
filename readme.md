@@ -11,4 +11,4 @@ This repository is starting out as a collection of Jupyter notebooks that I have
   - [Example Problems (Slides)](https://docs.google.com/presentation/d/1n1h0I3I6z_keSBQQ_vbubKaSRDTo9UnZrMjSoYj5U40/edit?usp=sharing) [ESU ONLY
   ]
 
-* [Introduction to Inference](IntroductiontoInference.ipynb) ) ([Notebook Viewer](https://nbviewer.jupyter.org/github/drbjselby/Beginning-Stats/blob/master/Introduction%20to%20Inference.ipynb))
+* [Introduction to Inference](IntroductiontoInference.ipynb) ([Notebook Viewer](https://nbviewer.jupyter.org/github/drbjselby/Beginning-Stats/blob/master/Introduction%20to%20Inference.ipynb))
