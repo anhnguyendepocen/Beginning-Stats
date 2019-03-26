@@ -1,5 +1,4 @@
-# Intro to Probability and Statistics
-This repository is starting out as a collection of Jupyter notebooks that I have created for the MA 341 course at Emporia State University.
+# Jupyter Notebooks:
 
 * [Normal Distributions](NormalDistributions.ipynb) ([Notebook Viewer](https://nbviewer.jupyter.org/github/drbjselby/Beginning-Stats/blob/master/NormalDistributions.ipynb#) )
 
@@ -12,3 +11,6 @@ This repository is starting out as a collection of Jupyter notebooks that I have
   ]
 
 * [Introduction to Inference](IntroductiontoInference.ipynb) ([Notebook Viewer](https://nbviewer.jupyter.org/github/drbjselby/Beginning-Stats/blob/master/Introduction%20to%20Inference.ipynb))
+
+
+[Back to Home Page](https://drbjselby.github.io)
