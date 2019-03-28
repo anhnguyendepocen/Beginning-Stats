@@ -12,5 +12,6 @@
 
 * [Introduction to Inference](IntroductiontoInference.ipynb) ([Notebook Viewer](https://nbviewer.jupyter.org/github/drbjselby/Beginning-Stats/blob/master/Introduction%20to%20Inference.ipynb))
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drbjselby/Beginning-Stats/master)
 
 [Back to Home Page](https://drbjselby.github.io)
