@@ -11,6 +11,8 @@
   ]
 
 * [Introduction to Inference](IntroductiontoInference.ipynb) ([Notebook Viewer](https://nbviewer.jupyter.org/github/drbjselby/Beginning-Stats/blob/master/Introduction%20to%20Inference.ipynb))
+  - [Small Sample Inference Slides](https://github.com/drbjselby/Beginning-Stats/small-sample-inference.html)
+
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/drbjselby/Beginning-Stats/master)
 
